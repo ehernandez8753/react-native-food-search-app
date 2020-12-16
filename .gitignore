@@ -13,4 +13,4 @@ web-build/
 .DS_Store
 
 # api data
-src/api/yelp.js
+yelp.js
